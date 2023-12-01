@@ -2,10 +2,10 @@
   "name": "project-thecodeblack",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://goldenrash-lab.github.io/project-thecodeblack",
+  "homepage": "https://GoitStudentsWorks.github.io/js_65_Goldenrash-lab",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /project-thecodeblack/"
+    "build": "parcel build src/*.html --public-url /js_65_Goldenrash-lab/"
   },
   "repository": {
     "type": "git",
